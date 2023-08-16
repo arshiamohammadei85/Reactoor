@@ -16,10 +16,7 @@
   "autoload": {
     "psr-4": {
       "App\\": "app/"
-    },
-    "files": [
-      "vendor/arshiamohammadei85/framework/illustrate/framework/Helpers/config.php"
-    ]
+    }
   },
   "require": {
     "arshiamohammadei85/framework": "^2.0"
