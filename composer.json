@@ -22,7 +22,7 @@
     ]
   },
   "require": {
-    "arshiamohammadei85/framework": "^1.0"
+    "arshiamohammadei85/framework": "^2.0"
   },
   "minimum-stability": "dev",
   "prefer-stable": true,
